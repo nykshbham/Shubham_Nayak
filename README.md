@@ -4,7 +4,7 @@
 <h3 align="center">I specialize in analyzing complex data sets to uncover insights and provide valuable recommendations as a skilled data analyst.</h3>
 
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+<img align="right" alt="data" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 
 
