@@ -6,8 +6,7 @@
 
 <img align="right" alt="data" width="300" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
-
-
+<br>
 
 - 🌱 I’m currently learning **SQL and Machine Learning**
 
